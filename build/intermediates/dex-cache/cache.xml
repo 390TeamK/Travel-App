@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_4f5ed327117759123b12528b90a8d460f39d4210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_1d3639e633ea197f6700ffa61ae274da068f621b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_231f2f932f1fd5dce08bebf43688c7f6d27d7bb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4ab5c94d75bb5d53612523095b627f7c6d83be1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_7ec33fae8b7eee2040eac629ebbd9939e3ad5788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0a859d65f5b75047d2fcfbbbcacf3d5715f89a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_4176968a3fbf036aa786ae046b7c4389fbb96af9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb3f33a2c9a613fb8fa15a0d614dcdd3d9fe2661">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a5fde0e2a44809d310a8b90a376750255401bc4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_7b8598d5b28e41de2816186c426d7c699b72e5db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_e605fb46da22601ca4a34fa76a28ab2e6f680aa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fc9fca8f38e256b525609ac1e9cf578de2bac4d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_b56d838bd111b48fa94d324c7fa04a268dc9e855/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_7b62e74404089fc968f81984b6e6c891956c5d93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6a2d6b8b598f52eb3435f70951431651cafd044a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_6df458b53eb262dbc69d9115a71b87a12e2114f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_9c7cae7f4dbc41549a66f9a61f09501ba91536ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_dc934423dbe72be15fc6aeacbc4c5049c69ec84f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_3816ae090fc495c1ae26f3b341f6e604f68d02f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_8b9855703b599ab8318753d4c5df2f4af1eabc86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_480c7efff8a11b1b2c8722a8b0ecaafcbc7bdf19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_e5c3c784f2361449fb895add955f41fa539da022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_0167754eea3aa1706a1421ea410aed59f7628ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0d9418e181041e46154b062b4efb0a78fd34100b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_49d4630a22ca068c911bc4a213586aaa6b21eb64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_3efd80f1fb61c505efdeb3d88712d513f25322e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_9dc9a89eb5b038a489f249f0b63b26dfcaab0ae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_391e320d8779e58a644e8ffa41a0a6bd2254ae1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_ddfee1690df2994ac983a917d5706d602491e8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_f57f3f074f6e82b1a20d535252b16e9ad351886c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_93b51ac08afc2970f0957bbc0b50dfaacabc8c67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_8f19b21eaae3f5e31432f07547c9c02356ef4f5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_a24bdde3fca5e3a80ec191020029893c203b05eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_936d62eff7ca32abb85a71721c9d07fb2a38be81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_51162809a0a505e62a651aeeecc7288b7cc07d48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_1ac57b9dde6fd9d4f8f8eaa6cebd2623bdbd5fc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_a1246a69e2ab7371fb9292ae36bf00523c4e0617/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_281aeb151a14e6253c2a341e2e0f57aa4f73ac83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_88b7d75f559dc9ba096c79bfebb01828ea8de65d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_8352063fe02e81af6a327d9d91b59b5735af24d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_ab18d17679e41451239f5e9dcbd9df253f26a80f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_b99cf10595919fcadce61d796f2e9158023b928a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd1373b27a6c7eb0dbe82572aca487c1560f25d6">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_150a62e1304f9b1e425bfe5a3267a7d34ec7b7d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_5360c427723d80ac750475981ec3a845bb8956fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_1e2ede9da32603fbcf443af108878b2e8a843c8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_86481cd814674ac7693d541d01c0ef88bb3c1c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8aa15e57d21a803f1f2de8a63fe1b703f4e79d89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_e9220c1c632e514e93af140d461ebda603eba32a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_4bfb9e0352d3fb1df7cc317411d1e26ec3e0320e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_21bf088f61288da07f3405ce95bdcbcbd80fde2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_e2c9e67fb79b2fc64395d3d06834304fc2cc444c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_6ef5b912a37a86430e5b713698e5ac20abab0f52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_f82df37796396ef948a016292388dfceda1eabbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_0a23559777bf9a78c6763e8c9c9054ad2f88bef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_219f6ec0977cf8da85084459aadef8ab020e88c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_11f709d64cc0b0aad84bf5d0a86a56357165a8d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8a142f57a610748ad9bf8a98e8a81c2a996abc86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_63a2bc52d30c605c9564356a1001815f06117039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_9ea97d201568fd967558eda549993906d31c0534/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_15e289a05c17848bf1546bc2316601a92b85581e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_c4cfeaacde19ea343a270ef208797d713f2ae792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_34d13f4026a75e2440e7c85588bb5c3b4b4990cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_b18bd2c253db58336389e7b89ba1de56b52621f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_3e68369cad1917a391158f1faac9483e383f5cab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_cc72868a948fd95c15ed9b0a8663ca9849fc6cbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_b711320255163175fdd62cc76a306e8af35075c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_54a30146ed69238d135922614ce7ca7f853a8bc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_2c2c209e85feecedba4be5af729d9560782efe56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/Christian/Desktop/Google Maps API/android-samples-master/GoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_fdaf3c3c510f0eac4c38158d1c454ed78b335d28/classes.dex" />
+    </item>
+
+</items>
